@@ -1,0 +1,8 @@
+Django>=5.0
+djangorestframework
+psycopg2-binary
+pandas
+celery
+redis
+gunicorn
+django-celery-beat
